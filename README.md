@@ -1,6 +1,8 @@
 # Snake Game
 
-![Snake Game Screenshot](snake_game_screenshot.png)
+![Snake Game Demo](https://github.com/Yashpaliwal391/Snake.AI/blob/main/Captures/ezgif.com-optimize.gif)
+
+
 
 This is a classic Snake game implemented in Java using the Swing library. In this game, you control a snake and try to eat apples to grow longer. Be careful not to run into walls or collide with yourself!
 
